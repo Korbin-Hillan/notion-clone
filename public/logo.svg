@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 16 16"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.21449863"
+     inkscape:cx="582.75432"
+     inkscape:cy="128.20595"
+     inkscape:window-width="1440"
+     inkscape:window-height="826"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M11 3C11 4.30622 10.1652 5.41746 9 5.82929V13.917C11.5125 13.4955 13.4955 11.5125 13.917 9H12V7H16V8C16 12.4183 12.4183 16 8 16C3.58172 16 0 12.4183 0 8V7H4V9H2.08296C2.50448 11.5125 4.48749 13.4955 7 13.917V5.82929C5.83481 5.41746 5 4.30622 5 3C5 1.34315 6.34315 0 8 0C9.65685 0 11 1.34315 11 3Z"
+     fill="#000000"
+     id="path1" />
+</svg>
