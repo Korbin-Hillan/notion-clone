@@ -1,5 +1,4 @@
 "use client";
-
 import "@blocknote/core/fonts/inter.css";
 import "@blocknote/mantine/style.css";
 
@@ -50,11 +49,7 @@ interface EditorProps {
   editable?: boolean;
 }
 
-export const Editor = ({
-  onChange,
-  initialContent,
-  editable = true,
-}: EditorProps) => {
+const Editor = ({ onChange, initialContent, editable = true }: EditorProps) => {
   const { resolvedTheme } = useTheme();
   const { edgestore } = useEdgeStore();
 
